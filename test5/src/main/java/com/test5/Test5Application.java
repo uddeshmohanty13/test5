@@ -12,6 +12,7 @@ public class Test5Application {
 		int y = 200;
 		String s2 = "MOHANTY";
 		boolean isPresent = false;
+		String s4 = "Hii";
 		SpringApplication.run(Test5Application.class, args);
 	}
 
