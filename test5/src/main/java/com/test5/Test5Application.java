@@ -12,8 +12,9 @@ public class Test5Application {
 		int y = 200;
 		String s2 = "MOHANTY";
 		boolean isPresent = false;
-        String s4 = "Hii";
-        String s3 = "Hello";
+    String s4 = "Hii";
+    String s3 = "Hello";
+		String s5 = "lalaaa";
 		SpringApplication.run(Test5Application.class, args);
 	}
 
